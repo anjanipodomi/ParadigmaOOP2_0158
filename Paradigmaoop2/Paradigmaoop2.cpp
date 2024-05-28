@@ -30,7 +30,7 @@ class lia : public seseorang
 public:
 	void pesan()
 	{
-
+		cout << "pesan dari Lia" << endl;
 	}
 };
 
