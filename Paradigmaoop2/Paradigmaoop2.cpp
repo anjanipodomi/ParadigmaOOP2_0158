@@ -14,6 +14,19 @@ public:
 	//}
 };
 
+class joko : public seseorang
+{
+public:
+	//deklarasi
+	void pesan()
+	{
+		//implementasi
+		cout << "pesan dari joko" << endl;
+	}
+};
+
+
+
 int main()
 {
    
